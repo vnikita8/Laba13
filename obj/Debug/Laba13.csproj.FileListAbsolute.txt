@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Laba13\bin\Debug\Laba13.exe.config
+C:\Users\User\source\repos\Laba13\bin\Debug\Laba13.exe
+C:\Users\User\source\repos\Laba13\bin\Debug\Laba13.pdb
+C:\Users\User\source\repos\Laba13\bin\Debug\BanksFabric.dll
+C:\Users\User\source\repos\Laba13\bin\Debug\BuildsFabric.dll
+C:\Users\User\source\repos\Laba13\bin\Debug\BanksFabric.pdb
+C:\Users\User\source\repos\Laba13\bin\Debug\BuildsFabric.pdb
+C:\Users\User\source\repos\Laba13\obj\Debug\Laba13.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Laba13\obj\Debug\Laba13.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Laba13\obj\Debug\Laba13.Form1.resources
+C:\Users\User\source\repos\Laba13\obj\Debug\Laba13.Properties.Resources.resources
+C:\Users\User\source\repos\Laba13\obj\Debug\Laba13.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Laba13\obj\Debug\Laba13.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Laba13\obj\Debug\Laba13.csproj.CopyComplete
+C:\Users\User\source\repos\Laba13\obj\Debug\Laba13.exe
+C:\Users\User\source\repos\Laba13\obj\Debug\Laba13.pdb

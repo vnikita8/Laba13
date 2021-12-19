@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2c3c31e2-8d31-4d91-87be-8e76e719f8ea": {
+      "ProjectGuid": "2c3c31e2-8d31-4d91-87be-8e76e719f8ea",
+      "DisplayName": "Laba13",
+      "ColorIndex": 0
+    },
+    "bd981892-9a59-487d-93bb-50144116c7b6": {
+      "ProjectGuid": "bd981892-9a59-487d-93bb-50144116c7b6",
+      "DisplayName": "BankFabric",
+      "ColorIndex": 1
+    },
+    "3cf8bb06-0816-40c0-b635-6080f267ab94": {
+      "ProjectGuid": "3cf8bb06-0816-40c0-b635-6080f267ab94",
+      "DisplayName": "FabricBank",
+      "ColorIndex": 2
+    },
+    "c484b0b5-79f9-456a-9876-f70dbb6c82e0": {
+      "ProjectGuid": "c484b0b5-79f9-456a-9876-f70dbb6c82e0",
+      "DisplayName": "BanksFabric",
+      "ColorIndex": 3
+    },
+    "a9aa2711-d027-40d9-b75c-a62bd35bef77": {
+      "ProjectGuid": "a9aa2711-d027-40d9-b75c-a62bd35bef77",
+      "DisplayName": "BuildsFabric",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
